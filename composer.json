@@ -1,0 +1,19 @@
+{
+    "name": "nzrylmz/eventmanager",
+    "description": "A simple event manager for handling actions like WordPress's do_action and add_action.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "nzrylmz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nzrylmz",
+            "email": "nzrylmz@yandex.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
